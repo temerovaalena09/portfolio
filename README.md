@@ -40,6 +40,7 @@
 
 *Работы:*
 [Бизнес-требование](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D1%82%D0%B7%D1%8B%D0%B2%D1%8B-100826-111953.pdf)
+[User Story](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5B%D0%A2%D0%90%5D%20US-2%20%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%B0-100826-112359.pdf)
 
 
 **2. Работа технической поддержки**
