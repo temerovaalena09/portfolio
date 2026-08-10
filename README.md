@@ -68,6 +68,7 @@
 
 [Постановка задач на Frontend](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B9%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%87%D0%B0%D1%82-100826-152900.pdf)
 
+[БД](https://github.com/temerovaalena09/portfolio/blob/main/GetAnalyst%20-%2012%2C13%2C14%20-%20%D0%91%D0%94%20%D0%B8%20SQL-%D0%A2%D0%B5%D0%BC%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%20%D0%90%D0%BB%D1%91%D0%BD%D0%B0%20(2)%20(2).jpg) 
 [БД](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20user%20-%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-100826-153157.pdf)
 
 **3. Подключение преподавателей к платформе**
