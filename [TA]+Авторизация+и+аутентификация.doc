@@ -1,0 +1,891 @@
+Date: Mon, 10 Aug 2026 15:45:53 +0000 (UTC)
+Message-ID: <2135574660.49.1786376753519@45a30ca9d1b3>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_48_942850301.1786376753517"
+
+------=_Part_48_942850301.1786376753517
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>[TA] =D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=
+=B8=D1=8F =D0=B8 =D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=
+=BA=D0=B0=D1=86=D0=B8=D1=8F</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>[TA] =D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=
+=D1=8F =D0=B8 =D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=
+=D0=B0=D1=86=D0=B8=D1=8F</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1786376751233 {padding: 0px;}
+div.rbtoc1786376751233 ul {list-style: none;margin-left: 0px;}
+div.rbtoc1786376751233 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1786376751233">
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D0=B1=D1=89=D0=B5=D0=B5=D0=BE=D0=BF=
+=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5">=D0=9E=D0=B1=D1=89=D0=B5=D0=B5 =D0=BE=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=
+=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D1=8B">=D0=A2=D0=B5=D1=81=D1=82=
+=D0=BE=D0=B2=D1=8B=D0=B5 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D1=8B</a></li=
+>
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A5=D1=80=D0=B0=D0=BD=D0=B5=D0=BD=D0=B8=
+=D0=B5=D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B9=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=
+=BF=D0=B0(=D1=84=D0=B0=D0=B9=D0=BB=D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=
+=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8)">=D0=A5=D1=80=D0=B0=D0=BD=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B9 =D0=B4=D0=BE=D1=81=D1=82=D1=
+=83=D0=BF=D0=B0 (=D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=
+=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8)</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A0=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=
+=D0=B4=D0=B0=D1=86=D0=B8=D0=B8=D0=BF=D0=BE=D1=85=D1=80=D0=B0=D0=BD=D0=B5=D0=
+=BD=D0=B8=D1=8E:">=D0=A0=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=D0=B4=D0=B0=D1=
+=86=D0=B8=D0=B8 =D0=BF=D0=BE =D1=85=D1=80=D0=B0=D0=BD=D0=B5=D0=BD=D0=B8=D1=
+=8E:</a></li>
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BA=
+=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=
+=BD=D0=BE=D0=B3=D0=BE=D1=84=D0=B0=D0=B9=D0=BB=D0=B0:">=D0=9F=D1=80=D0=B8=D0=
+=BC=D0=B5=D1=80 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=
+=86=D0=B8=D0=BE=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=84=D0=B0=D0=B9=D0=BB=D0=
+=B0:</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A1=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=B8=
+=D0=B9=D0=BF=D0=B5=D1=80=D0=B2=D0=B8=D1=87=D0=BD=D0=BE=D0=B9=D0=B0=D0=B2=D1=
+=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=D0=A1=D1=86=D0=B5=D0=
+=BD=D0=B0=D1=80=D0=B8=D0=B9 =D0=BF=D0=B5=D1=80=D0=B2=D0=B8=D1=87=D0=BD=D0=
+=BE=D0=B9 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=
+=B8</a></li>
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A1=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=B8=
+=D0=B9=D1=80=D0=B5-=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=
+=D0=B8=D0=B8">=D0=A1=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=B8=D0=B9 =D1=80=D0=B5=
+-=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8</a></li=
+>
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=98=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=
+=B7=D0=B0=D1=86=D0=B8=D0=B8=D0=B2API-=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=
+=D0=B0=D1=85">=D0=98=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D0=BD=D0=B8=D0=B5 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=
+=D0=B8=D0=B8 =D0=B2 API-=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0=D1=85</a=
+>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D1=81=D0=BE=D0=B1=D0=B5=D0=BD=D0=BD=
+=D0=BE=D1=81=D1=82=D0=B8=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D0=BD=D0=B8=D1=8F:">=D0=9E=D1=81=D0=BE=D0=B1=D0=B5=D0=BD=D0=BD=D0=
+=BE=D1=81=D1=82=D0=B8 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=
+=B2=D0=B0=D0=BD=D0=B8=D1=8F:</a></li>
+</ul></li>
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=
+=D0=BA=D0=B0=D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA=D0=90=D0=B2=D1=82=D0=BE=D1=
+=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=D0=9E=D0=B1=D1=80=D0=B0=D0=B1=D0=
+=BE=D1=82=D0=BA=D0=B0 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA =D0=90=D0=B2=D1=
+=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8</a></li>
+<li><a href=3D"#id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=
+=D0=BA=D0=B0=D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA=D0=BF=D1=80=D0=B0=D0=B2=D0=
+=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B0">=D0=9E=D0=B1=D1=80=D0=B0=D0=B1=D0=
+=BE=D1=82=D0=BA=D0=B0 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA =D0=BF=D1=80=D0=
+=B0=D0=B2 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B0</a></li>
+</ul>
+</div>
+<h1 local-id=3D"59509c1e651f" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D0=B1=D1=89=D0=
+=B5=D0=B5=D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5">=D0=9E=D0=B1=D1=
+=89=D0=B5=D0=B5 =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5</h1>
+<p local-id=3D"815ad266d481">=D0=94=D0=BB=D1=8F =D0=B0=D0=B2=D1=82=D0=BE=D1=
+=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B2 RaifPay =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82=D1=81=D1=8F =D0=B4=D0=B2=D0=B0 =
+=D0=BA=D0=BB=D1=8E=D1=87=D0=B0 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B0: =
+<code>publicId</code> =D0=B8 <code>secretKey</code>.</p>
+<ul local-id=3D"6dd67e82-f132-424d-b913-76e2b96d754c">
+<li local-id=3D"50f71ef0-574e-400b-8efd-0f8bbb0fec3d">
+<p local-id=3D"4e5ef98fbeaf"><code>publicId</code> - =D0=98=D0=B4=D0=B5=D0=
+=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80, =D0=BA=D0=BE=D1=
+=82=D0=BE=D1=80=D1=8B=D0=B9 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=
+=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BE=D1=82=D0=BA=D1=80=D1=
+=8B=D1=82=D0=B8=D1=8F =D0=BF=D0=BB=D0=B0=D1=82=D0=B5=D0=B6=D0=BD=D0=BE=D0=
+=B9 =D1=84=D0=BE=D1=80=D0=BC=D1=8B =D0=B8 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=
+=82=D1=81=D1=8F =D0=BF=D1=83=D0=B1=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=BC.</p>=
+</li>
+<li local-id=3D"737d61d1-ee29-4feb-85e1-97f7d7f14eb9">
+<p local-id=3D"63d6b485a6c4"><code>secretKey</code> - =D0=A1=D0=B5=D0=BA=D1=
+=80=D0=B5=D1=82=D0=BD=D1=8B=D0=B9 =D0=BA=D0=BB=D1=8E=D1=87, =D0=BA=D0=BE=D1=
+=82=D0=BE=D1=80=D1=8B=D0=B9 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=
+=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BC=D0=B5=D0=B6=D1=81=D0=
+=B5=D1=80=D0=B2=D0=B8=D1=81=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=B7=D0=B0=D0=
+=B8=D0=BC=D0=BE=D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F. =D0=AF=D0=
+=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D1=80=D0=B8=D0=B2=D0=B0=D1=
+=82=D0=BD=D1=8B=D0=BC, =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=
+=BC=D0=BE =D1=85=D1=80=D0=B0=D0=BD=D0=B8=D1=82=D1=8C =D0=B2 =D0=B7=D0=B0=D1=
+=89=D0=B8=D1=89=D0=B5=D0=BD=D0=BD=D0=BE=D0=BC =D0=BC=D0=B5=D1=81=D1=82=D0=
+=B5 =D0=B8 =D0=BD=D0=B5 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=B2=D0=B0=D1=
+=82=D1=8C =D1=82=D1=80=D0=B5=D1=82=D1=8C=D0=B8=D0=BC =D0=BB=D0=B8=D1=86=D0=
+=B0=D0=BC.</p></li>
+</ul>
+<p local-id=3D"32308e1200b9">=D0=9F=D0=BE=D1=81=D0=BC=D0=BE=D1=82=D1=80=D0=
+=B5=D1=82=D1=8C =D0=B1=D0=BE=D0=B5=D0=B2=D0=BE=D0=B9 <code>publicId</code> =
+=D0=B8 =D1=81=D1=84=D0=BE=D1=80=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=
+=D1=8C <code>secretKey</code> =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=B2 <a href=
+=3D"https://www.rbo.raiffeisen.ru/acquiring/mcp#/" local-id=3D"3bbbc8ff0fda=
+" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">=
+https://www.rbo.raiffeisen.ru/acquiring/mcp#/</a> , =D0=BB=D0=B8=D0=B1=D0=
+=BE <a href=3D"https://pay.raif.ru/account/#/auth" local-id=3D"05094e31032c=
+" data-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">=
+https://pay.raif.ru/account/#/auth</a></p>
+<h2 local-id=3D"2d15a6bf824e" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A2=D0=B5=D1=81=D1=
+=82=D0=BE=D0=B2=D1=8B=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D1=8B">=D0=
+=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B5 =D0=B4=D0=BE=D1=81=D1=82=D1=
+=83=D0=BF=D1=8B</h2>
+<p local-id=3D"bf6b61d138c2">=D0=94=D0=BB=D1=8F =D1=84=D0=BE=D1=80=D0=BC=D0=
+=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F <code>secretKey</code> =D0=B2=
+ =D1=82=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D0=BE=D0=BC =D0=BA=D0=BE=D0=BD=D1=82=
+=D1=83=D1=80=D0=B5 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=
+=D0=BE =D0=BE=D0=B1=D1=80=D0=B0=D1=82=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D0=B2 =
+=D1=81=D0=BB=D1=83=D0=B6=D0=B1=D1=83 =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=
+=D0=B6=D0=BA=D0=B8 <a href=3D"mailto:ecom@raiffeisen.ru" class=3D"external-=
+link" rel=3D"nofollow">ecom@raiffeisen.ru</a></p>
+<h2 local-id=3D"42525ea21b6f" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A5=D1=80=D0=B0=D0=
+=BD=D0=B5=D0=BD=D0=B8=D0=B5=D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B9=D0=B4=D0=BE=
+=D1=81=D1=82=D1=83=D0=BF=D0=B0(=D1=84=D0=B0=D0=B9=D0=BB=D0=BA=D0=BE=D0=BD=
+=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8)">=D0=A5=D1=80=D0=B0=
+=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B9 =D0=B4=
+=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B0 (=D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=
+=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8)</h2>
+<h3 local-id=3D"1262c3c3b0e8" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A0=D0=B5=D0=BA=D0=
+=BE=D0=BC=D0=B5=D0=BD=D0=B4=D0=B0=D1=86=D0=B8=D0=B8=D0=BF=D0=BE=D1=85=D1=80=
+=D0=B0=D0=BD=D0=B5=D0=BD=D0=B8=D1=8E:"><strong>=D0=A0=D0=B5=D0=BA=D0=BE=D0=
+=BC=D0=B5=D0=BD=D0=B4=D0=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=BE =D1=85=D1=80=D0=
+=B0=D0=BD=D0=B5=D0=BD=D0=B8=D1=8E:</strong></h3>
+<ul local-id=3D"37bc6217-9f0f-4193-8aa1-d37b9925717d">
+<li local-id=3D"dd634fe7-34cb-476f-842f-24448f8bbac5">
+<p local-id=3D"a0e524319402"><code>publicId</code> =D0=B8 <code>secretKey</=
+code> =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D1=85=D1=80=D0=B0=D0=BD=D0=B8=
+=D1=82=D1=8C=D1=81=D1=8F =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB=D0=B5 =D0=BA=D0=BE=
+=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D1=81=D0=B8=
+=D1=81=D1=82=D0=B5=D0=BC=D1=8B (=D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=
+=D1=80, <code>.env</code> =D0=B8=D0=BB=D0=B8 <code>config.yaml</code>).</p>=
+</li>
+<li local-id=3D"6c53f6dc-75a3-4280-8dc0-fd9bb1bc81c3">
+<p local-id=3D"9be77f8b7d51">=D0=A1=D0=B5=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D1=
+=8B=D0=B9 =D0=BA=D0=BB=D1=8E=D1=87 <code>secretKey</code> =D0=B4=D0=BE=D1=
+=81=D1=82=D1=83=D0=BF=D0=B5=D0=BD =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=
+=BD=D0=B0 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D0=B8 =D0=BD=D0=B5 =D0=B4=
+=D0=BE=D0=BB=D0=B6=D0=B5=D0=BD =D0=BB=D0=BE=D0=B3=D0=B8=D1=80=D0=BE=D0=B2=
+=D0=B0=D1=82=D1=8C=D1=81=D1=8F .</p></li>
+<li local-id=3D"d4e77b8e-5aa0-4483-869e-5fd0b155fd9c">
+<p local-id=3D"b063d95eeaec">=D0=94=D0=BB=D1=8F =D1=80=D0=B0=D0=B7=D0=BD=D1=
+=8B=D1=85 =D1=81=D1=80=D0=B5=D0=B4 (=D1=82=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D0=
+=B0=D1=8F/=D0=BF=D1=80=D0=BE=D0=B4=D1=83=D0=BA=D1=82=D0=B8=D0=B2=D0=BD=D0=
+=B0=D1=8F) =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D1=80=D0=B0=D0=
+=B7=D0=BD=D1=8B=D0=B5 =D0=BA=D0=BB=D1=8E=D1=87=D0=B8 =D0=B4=D0=BE=D1=81=D1=
+=82=D1=83=D0=BF=D0=B0 .</p></li>
+<li local-id=3D"a28028c6-8c82-4f66-b0c4-37d3987a0c2a">
+<p local-id=3D"feee22703968">=D0=9A=D0=BB=D1=8E=D1=87=D0=B8 =D0=B4=D0=BE=D0=
+=BB=D0=B6=D0=BD=D1=8B =D1=85=D1=80=D0=B0=D0=BD=D0=B8=D1=82=D1=8C=D1=81=D1=
+=8F =D0=B2 =D0=B7=D0=B0=D1=88=D0=B8=D1=84=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=BD=D0=BE=D0=BC =D0=B2=D0=B8=D0=B4=D0=B5 =D1=81 =D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC =D0=B8=D0=BD=D1=
+=81=D1=82=D1=80=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 =D1=88=D0=B8=D1=
+=84=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F (=D0=BD=D0=B0=D0=BF=D1=80=D0=
+=B8=D0=BC=D0=B5=D1=80, git-crypt) =D0=B8=D0=BB=D0=B8 =D0=B2=D0=BD=D0=B5=D1=
+=88=D0=BD=D0=B8=D1=85 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC =D1=83=D0=BF=D1=
+=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D0=B5=D0=BA=D1=80=D0=
+=B5=D1=82=D0=B0=D0=BC=D0=B8 (=D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=
+=80, Hashicorp Vault).</p></li>
+</ul>
+<h3 local-id=3D"b48e9ddbbf29" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9F=D1=80=D0=B8=D0=
+=BC=D0=B5=D1=80=D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=
+=D0=B8=D0=BE=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE=D1=84=D0=B0=D0=B9=D0=BB=D0=B0:">=
+<strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=
+=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =
+=D1=84=D0=B0=D0=B9=D0=BB=D0=B0:</strong></h3>
+<p local-id=3D"9e1c66353def">=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=
+=8C =D0=BD=D0=BE=D0=B2=D1=8B=D0=B9 =D0=B1=D0=BB=D0=BE=D0=BA =D0=B2 <code>in=
+tegrations:</code> =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D0=BA=D0=BE=D0=BD=D1=84=
+=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 (YAML)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence"># =3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+# =D0=9D=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D0=B8 =D0=B8=D0=BD=D1=82=
+=D0=B5=D0=B3=D1=80=D0=B0=D1=86=D0=B8=D0=B9
+# =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+integrations:
+  raifpay:
+    baseUrl: "https://pay.raif.ru"
+    auth:
+      publicId: "000001780049001-80049001"
+      secretKey: "abc123def456..."
+    settings:
+      timeout: 10
+      currency: "RUB"</pre>
+</div>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence"># confi=
+g.yml
+# =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+# =D0=9E=D0=B1=D1=89=D0=B8=D0=B5 =D0=BD=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=
+=D0=BA=D0=B8 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B
+# =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+app:
+  name: U-verse Platform
+  environment: production  # =D0=B8=D0=BB=D0=B8 development / staging
+  version: 1.0.0
+
+server:
+  host: 0.0.0.0
+  port: 8080
+
+logging:
+  level: INFO
+  format: json
+  file: /var/log/uverse/app.log
+
+database:
+  host: db.uverse.local
+  port: 5432
+  name: uverse_db
+  user: uverse_user
+  password: uverse_secure_password
+
+security:
+  jwtSecret: "your-very-long-secret-key"
+  tokenExpirationMinutes: 60
+
+# =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+# =D0=9D=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D0=B8 =D0=B8=D0=BD=D1=82=
+=D0=B5=D0=B3=D1=80=D0=B0=D1=86=D0=B8=D0=B9
+# =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+integrations:
+  raifpay:
+    name: RaifPay
+    baseUrl: "https://pay.raif.ru"
+    auth:
+      publicId: "000001780049001-80049001"
+      secretKey: "abc123def456..."
+    settings:
+      timeout: 10
+      currency: "RUB"
+  pruffme:
+    name: Pruffme Webinar Platform
+    baseUrl: "https://pruffme.com/api/"
+    auth:
+      userHash: "12345678909876543"
+      apiKey: "2345678909876543cvbn"
+      timeout: 10</pre>
+</div>
+</div>
+<h1 local-id=3D"175bc6b78a07" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A1=D1=86=D0=B5=D0=
+=BD=D0=B0=D1=80=D0=B8=D0=B9=D0=BF=D0=B5=D1=80=D0=B2=D0=B8=D1=87=D0=BD=D0=BE=
+=D0=B9=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=
+=D0=A1=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=B8=D0=B9 =D0=BF=D0=B5=D1=80=D0=B2=
+=D0=B8=D1=87=D0=BD=D0=BE=D0=B9 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=
+=D0=B0=D1=86=D0=B8=D0=B8</h1>
+<p local-id=3D"b164c3cc92d5">(=D1=81=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=B8=D0=
+=B9 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=82=D0=BE=D0=
+=BA=D0=B5=D0=BD=D0=B0 =D0=B2 =D0=BE=D0=B1=D0=BC=D0=B5=D0=BD =D0=BD=D0=B0 =
+=D0=BB=D0=BE=D0=B3=D0=B8=D0=BD =D0=B8 =D0=BF=D0=B0=D1=80=D0=BE=D0=BB=D1=8C)=
+</p>
+<p local-id=3D"f2882ce76962">=D0=9D=D0=B5 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=
+=BD=D0=B8=D0=BC=D0=BE.</p>
+<p local-id=3D"e32d35f8a51d">RaifPay =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=
+=D0=B7=D1=83=D0=B5=D1=82 =D0=BC=D0=BE=D0=B4=D0=B5=D0=BB=D1=8C =D0=B0=D0=B2=
+=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 =D0=BE=
+=D1=81=D0=BD=D0=BE=D0=B2=D0=B5 =D0=BF=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=
+=D0=BD=D1=8B=D1=85 =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B9 =D0=B4=D0=BE=D1=81=
+=D1=82=D1=83=D0=BF=D0=B0 (<code>publicId</code> =D0=B8 <code>secretKey</cod=
+e>), =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=B5=D1=80=D0=B5=D0=
+=B4=D0=B0=D1=8E=D1=82=D1=81=D1=8F =D0=B2 =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=
+=BC =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B5. =D0=9F=D1=80=D0=BE=D1=86=D0=
+=B5=D1=81=D1=81 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=
+=82=D0=BE=D0=BA=D0=B5=D0=BD=D0=B0 =D0=BF=D0=BE =D0=BB=D0=BE=D0=B3=D0=B8=D0=
+=BD=D1=83 =D0=B8 =D0=BF=D0=B0=D1=80=D0=BE=D0=BB=D1=8E =D0=BD=D0=B5 =D0=BF=
+=D1=80=D0=B5=D0=B4=D1=83=D1=81=D0=BC=D0=BE=D1=82=D1=80=D0=B5=D0=BD.</p>
+<h1 local-id=3D"7ec37c89af33" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=A1=D1=86=D0=B5=D0=
+=BD=D0=B0=D1=80=D0=B8=D0=B9=D1=80=D0=B5-=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=
+=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=D0=A1=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=
+=B8=D0=B9 =D1=80=D0=B5-=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D0=B8</h1>
+<p local-id=3D"bc16d42aff6b">(=D0=BF=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D0=BD=D0=
+=B0=D1=8F =D1=84=D0=BE=D0=BD=D0=BE=D0=B2=D0=B0=D1=8F =D0=B0=D0=B2=D1=82=D0=
+=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F =D0=B1=D0=B5=D0=B7 =D0=B2=D0=
+=BC=D0=B5=D1=88=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D1=82=D0=B2 =D0=BF=D0=
+=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D0=B8 =D1=
+=80=D1=83=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D0=
+=BF=D0=B0=D1=80=D0=BE=D0=BB=D1=8F, =D0=BF=D1=80=D0=B8 =D0=B8=D1=81=D1=82=D0=
+=B5=D1=87=D0=B5=D0=BD=D0=B8=D0=B8 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=
+=B8=D1=8F =D0=BA=D0=BB=D1=8E=D1=87=D0=B0 =D0=B8=D0=BB=D0=B8 =D1=82=D0=BE=D0=
+=BA=D0=B5=D0=BD=D0=B0)</p>
+<p local-id=3D"757562cc69b8">=D0=9D=D0=B5 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=
+=BD=D0=B8=D0=BC=D0=BE.</p>
+<p local-id=3D"394fefc57a1a">=D0=9A=D0=BB=D1=8E=D1=87=D0=B8 =D0=B4=D0=BE=D1=
+=81=D1=82=D1=83=D0=BF=D0=B0 (<code>publicId</code> =D0=B8 <code>secretKey</=
+code>) =D1=8F=D0=B2=D0=BB=D1=8F=D1=8E=D1=82=D1=81=D1=8F =D0=BF=D0=BE=D1=81=
+=D1=82=D0=BE=D1=8F=D0=BD=D0=BD=D1=8B=D0=BC=D0=B8 =D0=B8 =D0=BD=D0=B5 =D0=B8=
+=D0=BC=D0=B5=D1=8E=D1=82 =D1=81=D1=80=D0=BE=D0=BA=D0=B0 =D0=B4=D0=B5=D0=B9=
+=D1=81=D1=82=D0=B2=D0=B8=D1=8F. =D0=A1=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=B8=
+=D0=B9 =D0=BF=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D0=BD=D0=BE=D0=B9 =D0=B0=D0=B2=
+=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=BD=D0=B5 =D1=82=
+=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=D1=8F, =D1=82=D0=B0=D0=BA =D0=BA=
+=D0=B0=D0=BA =D0=BA=D0=BB=D1=8E=D1=87=D0=B8 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=
+=D0=B0=D1=8E=D1=82=D1=81=D1=8F =D0=B2 =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=BC =
+=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B5 =D0=B8 =D0=BD=D0=B5 =D0=B8=D1=81=
+=D1=82=D0=B5=D0=BA=D0=B0=D1=8E=D1=82.</p>
+<h1 local-id=3D"56a3ce7699da" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=98=D1=81=D0=BF=D0=
+=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=B0=D0=B2=D1=82=
+=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8=D0=B2API-=D0=B7=D0=B0=D0=
+=BF=D1=80=D0=BE=D1=81=D0=B0=D1=85">=D0=98=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=
+=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B2 API-=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=
+=D1=81=D0=B0=D1=85</h1>
+<p local-id=3D"7f6b541e61e2">=D0=92=D1=81=D0=B5 =D0=BC=D0=B5=D0=B6=D1=81=D0=
+=B5=D1=80=D0=B2=D0=B8=D1=81=D0=BD=D1=8B=D0=B5 =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D1=8B =D0=BA API RaifPay =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=
+=B7=D1=83=D1=8E=D1=82=D1=81=D1=8F =D0=BF=D0=BE=D1=81=D1=80=D0=B5=D0=B4=D1=
+=81=D1=82=D0=B2=D0=BE=D0=BC =D1=81=D0=B5=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D0=
+=BE=D0=B3=D0=BE =D0=BA=D0=BB=D1=8E=D1=87=D0=B0 <code>secretKey</code>. =D0=
+=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80 =D0=B0=D0=B2=D1=82=D0=BE=D1=
+=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=
+=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=
+=B2=D0=BA=D0=B5 <code>Authorization</code>, =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=
+=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B3=D0=BE =D1=84=
+=D0=BE=D1=80=D0=BC=D0=B8=D1=80=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=B0=
+=D0=BA <code>Bearer &lt;secretKey&gt;</code></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Authori=
+zation: Bearer &lt;secretKey&gt;</pre>
+</div>
+</div>
+<h2 local-id=3D"663b6a7ea74a" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D1=81=D0=BE=D0=
+=B1=D0=B5=D0=BD=D0=BD=D0=BE=D1=81=D1=82=D0=B8=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F:"><strong>=D0=9E=D1=81=D0=
+=BE=D0=B1=D0=B5=D0=BD=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=B8=D1=81=D0=BF=D0=
+=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F:</strong></h2>
+<ul local-id=3D"b93b0503-9907-41fc-816b-6827293d211d">
+<li local-id=3D"6305f009-0609-49ff-bc8c-fec1c48b58b6">
+<p local-id=3D"c08c6fb9afa6"><code>publicId</code> =D0=BF=D0=B5=D1=80=D0=B5=
+=D0=B4=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D1=82=D0=B5=D0=BB=D0=B5 =D0=B7=
+=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0, <code>secretKey</code> =E2=80=94 =D0=
+=B2 =D0=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BA=D0=B5 <code>Authorizat=
+ion</code> .</p></li>
+<li local-id=3D"325be614-58e2-4b33-a807-6c1115c1287c">
+<p local-id=3D"29dc5dcd3e0b">=D0=A1=D0=B5=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D1=
+=8B=D0=B9 =D0=BA=D0=BB=D1=8E=D1=87 <code>secretKey</code> =D0=B4=D0=BE=D0=
+=BB=D0=B6=D0=B5=D0=BD =D1=85=D1=80=D0=B0=D0=BD=D0=B8=D1=82=D1=8C=D1=81=D1=
+=8F =D0=B2 =D0=B7=D0=B0=D1=89=D0=B8=D1=89=D0=B5=D0=BD=D0=BD=D0=BE=D0=BC =D0=
+=BC=D0=B5=D1=81=D1=82=D0=B5 =D0=B8 =D0=BD=D0=B5 =D0=B4=D0=BE=D0=BB=D0=B6=D0=
+=B5=D0=BD =D0=BB=D0=BE=D0=B3=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=
+=81=D1=8F .</p></li>
+<li local-id=3D"e89d124f-ba61-4eda-9cb9-0c5d10b37a28">
+<p local-id=3D"57c63713ad0d">=D0=94=D0=BB=D1=8F =D1=82=D0=B5=D1=81=D1=82=D0=
+=BE=D0=B2=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=BD=D1=82=D1=83=D1=80=D0=B0 =D0=
+=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=
+=B0=D0=B4=D1=80=D0=B5=D1=81 <code>https://pay-test.raif.ru</code>, =D0=B4=
+=D0=BB=D1=8F =D0=BF=D1=80=D0=BE=D0=B4=D1=83=D0=BA=D1=82=D0=B8=D0=B2=D0=BD=
+=D0=BE=D0=B3=D0=BE =E2=80=94 <code>https://pay.raif.ru</code></p></li>
+</ul>
+<h1 local-id=3D"3faae015b0ba" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D0=B1=D1=80=D0=
+=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0=D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA=D0=90=
+=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=D0=9E=D0=B1=
+=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=
+=D0=BA =D0=90=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8</=
+h1>
+<p local-id=3D"c8f2e817c91b">=D0=9F=D1=80=D0=B8 =D1=84=D0=BE=D0=BD=D0=BE=D0=
+=B2=D0=BE=D0=B9 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B5 =D0=
+=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=
+=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B2 RaifPay =D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=
+=D0=B6=D0=BD=D1=8B =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =
+=D1=81=D1=86=D0=B5=D0=BD=D0=B0=D1=80=D0=B8=D0=B8:</p>
+<ol start=3D"1" local-id=3D"c8b20f885dce">
+<li local-id=3D"439c70ead1c8">
+<p local-id=3D"6c06e770dab7">=D0=9D=D0=B5=D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=D0=
+=BD=D1=8B=D0=B9<strong> </strong><code>secretKey</code></p>
+<p local-id=3D"5dbfee0d63f5">RaifPay =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=
+=D1=89=D0=B0=D0=B5=D1=82 HTTP-401 Unauthorized =D0=B8=D0=BB=D0=B8 =D0=BE=D1=
+=88=D0=B8=D0=B1=D0=BA=D1=83 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=
+=B0=D1=86=D0=B8=D0=B8 =D0=B2 =D1=82=D0=B5=D0=BB=D0=B5 =D0=BE=D1=82=D0=B2=D0=
+=B5=D1=82=D0=B0.</p>
+<p local-id=3D"8b880d87c646">=D0=9F=D1=80=D0=B8=D1=87=D0=B8=D0=BD=D0=B0: <c=
+ode>secretKey</code> =D0=B1=D1=8B=D0=BB =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D1=
+=8B=D0=BF=D1=83=D1=89=D0=B5=D0=BD =D0=B2 =D0=9B=D0=B8=D1=87=D0=BD=D0=BE=D0=
+=BC =D0=9A=D0=B0=D0=B1=D0=B8=D0=BD=D0=B5=D1=82=D0=B5 =D0=A0=D0=B0=D0=B9=D1=
+=84=D1=84=D0=B0=D0=B9=D0=B7=D0=B5=D0=BD =D0=91=D0=B8=D0=B7=D0=BD=D0=B5=D1=
+=81 =D0=9E=D0=BD=D0=BB=D0=B0=D0=B9=D0=BD=D0=B0, =D0=B0 =D0=B2 =D0=BA=D0=BE=
+=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 U-Verse =D0=BE=
+=D1=81=D1=82=D0=B0=D0=BB=D1=81=D1=8F =D1=81=D1=82=D0=B0=D1=80=D1=8B=D0=B9 =
+=D0=BA=D0=BB=D1=8E=D1=87. =D0=A1=D1=80=D0=BE=D0=BA =D0=B4=D0=B5=D0=B9=D1=81=
+=D1=82=D0=B2=D0=B8=D1=8F<strong> </strong><code>secretKey</code><strong> </=
+strong>=D0=BD=D0=B5 =D0=B8=D1=81=D1=82=D0=B5=D0=BA=D0=B0=D0=B5=D1=82, =D0=
+=BF=D0=BE=D1=8D=D1=82=D0=BE=D0=BC=D1=83 =D0=B4=D0=B0=D0=BD=D0=BD=D0=B0=D1=
+=8F =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B2=D0=BE=D0=B7=D0=BD=D0=B8=D0=
+=BA=D0=B0=D0=B5=D1=82 =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=BF=D1=80=D0=
+=B8 =D1=80=D1=83=D1=87=D0=BD=D0=BE=D0=B9 =D1=81=D0=BC=D0=B5=D0=BD=D0=B5 =D0=
+=BA=D0=BB=D1=8E=D1=87=D0=B0.</p>
+<p local-id=3D"61ff7b50ed9b">=D0=94=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=
+=B5 Backend:</p></li>
+</ol>
+<ul local-id=3D"be68fedd57a0">
+<li local-id=3D"584ae96f48f2">
+<p local-id=3D"1ec7c5b30ea4">=D0=97=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=
+=8C =D0=B2 =D0=BB=D0=BE=D0=B3 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 =D1=81 =
+=D1=83=D1=80=D0=BE=D0=B2=D0=BD=D0=B5=D0=BC ERROR.</p></li>
+<li local-id=3D"634860eb0b5a">
+<p local-id=3D"f663938c16bb">=D0=9E=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D1=
+=82=D1=8C =D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=
+=B5 =D0=B0=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=
+=BE=D1=80=D1=83 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B.</p></li>
+<li local-id=3D"2ee8df51e79d">
+<p local-id=3D"a56c938e333e">=D0=92=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D1=
+=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5: =C2=AB=D0=9F=D0=BB=D0=
+=B0=D1=82=D0=B5=D0=B6=D0=BD=D0=B0=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=
+=BC=D0=B0 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D0=BE =D0=BD=D0=B5=D0=
+=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=B0. =D0=9F=D0=BE=D0=B6=D0=B0=D0=
+=BB=D1=83=D0=B9=D1=81=D1=82=D0=B0, =D0=BF=D0=BE=D0=BF=D1=80=D0=BE=D0=B1=D1=
+=83=D0=B9=D1=82=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B6=D0=B5=C2=BB.</p></li>
+</ul>
+<p local-id=3D"ec2994373011">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=
+=8C =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=
+=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D0=BD=D0=B0 =D1=81=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BD=D0=B5 API U-Verse:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "code": "RAIFPAY_INT_401",
+  "message": "=D0=9F=D0=BB=D0=B0=D1=82=D0=B5=D0=B6=D0=BD=D0=B0=D1=8F =D1=81=
+=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=
+=D0=BD=D0=BE =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=B0, =
+=D0=BC=D1=8B =D1=83=D0=B6=D0=B5 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=B5=
+=D0=BC =D0=BD=D0=B0=D0=B4 =D1=8D=D1=82=D0=BE=D0=B9 =D0=BF=D1=80=D0=BE=D0=B1=
+=D0=BB=D0=B5=D0=BC=D0=BE=D0=B9"
+}</pre>
+</div>
+</div>
+<ol start=3D"2" local-id=3D"1dcdd53074c3">
+<li local-id=3D"4ce4e9c66eb8">
+<p local-id=3D"6cde95d30daf">=D0=9D=D0=B5=D0=B2=D0=B5=D1=80=D0=BD=D1=8B=D0=
+=B9<strong> </strong><code>publicId</code></p>
+<p local-id=3D"28348366adc5">RaifPay =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=
+=D1=89=D0=B0=D0=B5=D1=82 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 =D0=BE =D0=BD=
+=D0=B5=D0=B2=D0=B5=D1=80=D0=BD=D0=BE=D0=BC =D0=B8=D0=B4=D0=B5=D0=BD=D1=82=
+=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80=D0=B5 =D0=BC=D0=B0=D0=B3=
+=D0=B0=D0=B7=D0=B8=D0=BD=D0=B0.</p>
+<p local-id=3D"d5521eee7fa6">=D0=9F=D1=80=D0=B8=D1=87=D0=B8=D0=BD=D0=B0: =
+=D0=B2 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=
+=D0=B8 U-Verse =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD =D0=BD=D0=B5=D0=B2=D0=
+=B5=D1=80=D0=BD=D1=8B=D0=B9 <code>publicId</code>, =D0=BA=D0=BE=D1=82=D0=BE=
+=D1=80=D1=8B=D0=B9 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BF=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D0=B5=D1=82=D1=8C =D0=B2 =D0=9B=D0=B8=D1=87=D0=BD=D0=BE=
+=D0=BC =D0=9A=D0=B0=D0=B1=D0=B8=D0=BD=D0=B5=D1=82=D0=B5</p></li>
+</ol>
+<p local-id=3D"cd7052d16ff2">=D0=94=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=
+=B5 Backend:</p>
+<ul local-id=3D"d28e099d-f031-4bfc-856f-33b16b1487b1">
+<li local-id=3D"83f9b561-0449-4060-9248-72bc7debc611">
+<p local-id=3D"c161778f02d8">=D0=97=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=
+=8C =D0=B2 =D0=BB=D0=BE=D0=B3 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 =D1=81 =
+=D1=83=D1=80=D0=BE=D0=B2=D0=BD=D0=B5=D0=BC ERROR.</p></li>
+<li local-id=3D"87cde83f-0a24-4dc1-b25e-4deac8112d54">
+<p local-id=3D"a6dc293b8cbb">=D0=9E=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D1=
+=82=D1=8C =D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=
+=B5 =D0=B0=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=
+=BE=D1=80=D1=83 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B.</p></li>
+<li local-id=3D"5ac9b4d6-b236-4400-abe0-9041822884ba">
+<p local-id=3D"42d7358fc9fc">=D0=92=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D1=
+=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5: =C2=AB=D0=9E=D1=88=D0=
+=B8=D0=B1=D0=BA=D0=B0 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=
+=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=BB=D0=B0=D1=82=D0=B5=D0=B6=D0=BD=D0=BE=D0=
+=B9 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B. =D0=9E=D0=B1=D1=80=D0=B0=D1=
+=82=D0=B8=D1=82=D0=B5=D1=81=D1=8C =D0=B2 =D1=82=D0=B5=D1=85=D0=BD=D0=B8=D1=
+=87=D0=B5=D1=81=D0=BA=D1=83=D1=8E =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=
+=B6=D0=BA=D1=83=C2=BB.</p></li>
+</ul>
+<p local-id=3D"b122a3f59f2b">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=
+=8C =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=
+=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D0=BD=D0=B0 =D1=81=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BD=D0=B5 API U-Verse:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "code": "RAIFPAY_INT_400",
+  "message": "=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=BA=D0=BE=D0=BD=D1=84=
+=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=BB=D0=B0=D1=82=
+=D0=B5=D0=B6=D0=BD=D0=BE=D0=B9 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B. =
+=D0=9E=D0=B1=D1=80=D0=B0=D1=82=D0=B8=D1=82=D0=B5=D1=81=D1=8C =D0=B2 =D1=82=
+=D0=B5=D1=85=D0=BD=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D1=83=D1=8E =D0=BF=D0=BE=
+=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=BA=D1=83"
+}</pre>
+</div>
+</div>
+<ol start=3D"3" local-id=3D"4e0230cc729a">
+<li local-id=3D"3f6d85155248">
+<p local-id=3D"9cb828ffed0b">=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B0=D0=
+=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8 =D0=B2 RaifPay</p=
+></li>
+</ol>
+<p local-id=3D"a76602caf15d">RaifPay =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=
+=D1=89=D0=B0=D0=B5=D1=82 HTTP-200, =D0=BD=D0=BE =D0=B2 =D1=82=D0=B5=D0=BB=
+=D0=B5 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=
+=D0=B6=D0=B8=D1=82=D1=81=D1=8F =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B0=
+=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "error": {
+        "code": 401,
+        "message": "Invalid secretKey",
+        "description": "Authorization failed"
+    }
+}</pre>
+</div>
+</div>
+<p local-id=3D"db5a08261f97">=D0=9F=D1=80=D0=B8=D1=87=D0=B8=D0=BD=D0=B0: =
+=D0=BA=D1=82=D0=BE-=D1=82=D0=BE =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D1=8B=D0=BF=
+=D1=83=D1=81=D1=82=D0=B8=D0=BB <code>secretKey</code> =D0=B4=D0=BB=D1=8F =
+=D0=B0=D0=BA=D0=BA=D0=B0=D1=83=D0=BD=D1=82=D0=B0 =D0=B2 =D0=9B=D0=B8=D1=87=
+=D0=BD=D0=BE=D0=BC =D0=9A=D0=B0=D0=B1=D0=B8=D0=BD=D0=B5=D1=82=D0=B5 RaifPay=
+, =D0=B0 =D0=B2 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=
+=86=D0=B8=D0=B8 U-Verse =D0=BE=D1=81=D1=82=D0=B0=D0=BB=D1=81=D1=8F =D1=81=
+=D1=82=D0=B0=D1=80=D1=8B=D0=B9 =D0=BA=D0=BB=D1=8E=D1=87</p>
+<p local-id=3D"9f88c028ee51">=D0=94=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=
+=B5 Backend:</p>
+<ul local-id=3D"b7e02fc1-d106-4c77-b36e-deb367e8702c">
+<li local-id=3D"89b07838-899e-4075-b946-e08ae3a60723">
+<p local-id=3D"e431867f18dc">=D0=97=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=
+=8C =D0=B2 =D0=BB=D0=BE=D0=B3 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 =D1=81 =
+=D1=83=D1=80=D0=BE=D0=B2=D0=BD=D0=B5=D0=BC ERROR.</p></li>
+<li local-id=3D"a364eab8-0ffd-44f5-a1fa-6454afb8fa1f">
+<p local-id=3D"640bedc8f619">=D0=9E=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D1=
+=82=D1=8C =D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=
+=B5 =D0=B0=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=
+=BE=D1=80=D1=83 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B.</p></li>
+<li local-id=3D"19a544a8-6843-474e-8484-492817adc963">
+<p local-id=3D"306b0b8ddab4">=D0=92=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D1=
+=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5: =C2=AB=D0=9F=D0=BB=D0=
+=B0=D1=82=D0=B5=D0=B6=D0=BD=D0=B0=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=
+=BC=D0=B0 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D0=BE =D0=BD=D0=B5=D0=
+=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=B0. =D0=9F=D0=BE=D0=B6=D0=B0=D0=
+=BB=D1=83=D0=B9=D1=81=D1=82=D0=B0, =D0=BF=D0=BE=D0=BF=D1=80=D0=BE=D0=B1=D1=
+=83=D0=B9=D1=82=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B6=D0=B5=C2=BB.</p></li>
+</ul>
+<p local-id=3D"48b02a7b9e53">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=
+=8C =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=
+=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D0=BD=D0=B0 =D1=81=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BD=D0=B5 API U-Verse:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "code": "RAIFPAY_INT_401",
+  "message": "=D0=9F=D0=BB=D0=B0=D1=82=D0=B5=D0=B6=D0=BD=D0=B0=D1=8F =D1=81=
+=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=
+=D0=BD=D0=BE =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=D0=B0, =
+=D0=BC=D1=8B =D1=83=D0=B6=D0=B5 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=B5=
+=D0=BC =D0=BD=D0=B0=D0=B4 =D1=8D=D1=82=D0=BE=D0=B9 =D0=BF=D1=80=D0=BE=D0=B1=
+=D0=BB=D0=B5=D0=BC=D0=BE=D0=B9"
+}</pre>
+</div>
+</div>
+<p local-id=3D"a7f870c94212"></p>
+<p local-id=3D"9fb83a5843c1">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=
+=B0=D1=82=D1=8C =D0=B2 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B5 =D0=BC=D0=
+=BE=D0=BD=D0=B8=D1=82=D0=BE=D1=80=D0=B8=D0=BD=D0=B3=D0=B0 =D0=BE=D1=88=D0=
+=B8=D0=B1=D0=BA=D1=83 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=
+=86=D0=B8=D0=B8 =D0=B2 RaifPay.</p>
+<p local-id=3D"79ed2e0f767f">=D0=A3=D1=80=D0=BE=D0=B2=D0=B5=D0=BD=D1=8C: Bl=
+ocker (=D0=BA=D1=80=D0=B8=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B0=D1=8F =
+=D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=B0=
+=D1=8F =D0=BC=D0=B5=D1=88=D0=B0=D0=B5=D1=82 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=
+=D0=B5 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B, =D1=81=D1=80=D0=BE=D1=87=
+=D0=BD=D0=BE =D1=82=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B2=
+=D0=BC=D0=B5=D1=88=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=81=D1=82=D0=B2=D0=BE =
+=D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B =D1=80=D0=B0=D0=B7=D1=80=D0=B0=
+=D0=B1=D0=BE=D1=82=D0=BA=D0=B8).</p>
+<h1 local-id=3D"7565c3980212" id=3D"id-[TA]=D0=90=D0=B2=D1=82=D0=BE=D1=80=
+=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=D0=B8=D0=B0=D1=83=D1=82=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F-=D0=9E=D0=B1=D1=80=D0=
+=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0=D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA=D0=BF=
+=D1=80=D0=B0=D0=B2=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B0">=D0=9E=D0=B1=
+=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=
+=D0=BA =D0=BF=D1=80=D0=B0=D0=B2 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B0<=
+/h1>
+<p local-id=3D"fe4cd9e7fc0e">=D0=9D=D0=B5 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=
+=BD=D0=B8=D0=BC=D0=BE.</p>
+<p local-id=3D"c9acfadd863e"></p>
+    </div>
+</body>
+</html>
+------=_Part_48_942850301.1786376753517--
