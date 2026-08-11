@@ -124,3 +124,35 @@
 [Описание процесса](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B%20%D1%81%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-100826-160441.pdf)
 
 [Дополнение к описанию процесса](https://github.com/temerovaalena09/portfolio/blob/main/orders%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0-100826-160757.pdf)
+
+
+---
+## Инструментарий
+
+| Область | Инструменты |
+|---------|-------------|
+| Моделирование | ![Static Badge](https://img.shields.io/badge/BPMN%202.0-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/UML-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/C4%20Model-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/ERD-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Miro-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Draw.io-2E86C1?style=flat-square) |
+| API и интеграции | ![Static Badge](https://img.shields.io/badge/REST-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/SOAP-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Postman-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Webhooks-2E86C1?style=flat-square) |
+| Данные | ![Static Badge](https://img.shields.io/badge/SQL-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/PostgreSQL-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/DBeaver-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/ER--диаграммы-2E86C1?style=flat-square) |
+| Управление требованиями | ![Static Badge](https://img.shields.io/badge/Jira-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Confluence-2E86C1?style=flat-square) |
+| Прототипирование |![Static Badge](https://img.shields.io/badge/Figma-2E86C1?style=flat-square) |
+| Форматы |  ![Static Badge](https://img.shields.io/badge/JSON-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/XML-2E86C1?style=flat-square) |
+
+---
+
+## Образование и курсы
+
+- **Тюменский государственный университет** — Экономика (с IT-уклоном), последний курс
+- **GetAnalyst** — Системный аналитик: с нуля до опыта работы на проекте, 2026
+
+---
+## Контакты
+
+**Email:** temerovaalena789@mail.ru
+
+**Telegram:** @TEmerovaAl 
+
+**ВК:** https://vk.ru/temerova2000 
+
+**HH.ru:** https://hh.ru/resume/03358bcfff0faf80c20039ed1f754456314834?from=share_ios
+
