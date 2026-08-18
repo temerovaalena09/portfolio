@@ -49,55 +49,9 @@
 |----------|----------|--------|
 | Webhooks (RaifPay) | Описание структуры запросов, статусной модели, проверки подписи | [📄 Смотреть]() |
 | Kafka | Постановка задач на событийную модель: топики, структура сообщений | [📄 Смотреть]() |
-| Интеграция с RaifPay | Маппинг данных, сценарии проведения платежей и ошибок |[Общий обзор API](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%89%D0%B5%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20API%20RaifPay-100826-153959.pdf), [Авторизация и аутентификация](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-100826-160008.pdf), [Описание процесса](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B%20%D1%81%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-100826-160441.pdf), [Техническая реализация](https://github.com/temerovaalena09/portfolio/blob/main/orders%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0-100826-160757.pdf)
- |
-| Интеграция с Т-Банк | Маппинг данных, сценарии проведения платежей и ошибок | [📄 Смотреть]() |
+| Интеграция с RaifPay | Маппинг данных, сценарии проведения платежей и ошибок |[Общий обзор API](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%89%D0%B5%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20API%20RaifPay-100826-153959.pdf), [Авторизация и аутентификация](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-100826-160008.pdf), [Описание процесса](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B%20%D1%81%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-100826-160441.pdf), [Техническая реализация](https://github.com/temerovaalena09/portfolio/blob/main/orders%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0-100826-160757.pdf)|
+| Интеграция с Т-Банк | Маппинг данных, сценарии проведения платежей и ошибок | [Frontend](https://github.com/temerovaalena09/portfolio/blob/f9fcefe85bba1e96ca70bc971cef08db741ec6de/IP-%5BTA%5D%20Frontend.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-044012.pdf), [ Backend. Получение статуса реестра](https://github.com/temerovaalena09/portfolio/blob/f9fcefe85bba1e96ca70bc971cef08db741ec6de/IP-%5BTA%5D%20Backend.%20%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-044106.pdf), [Техническая реализация метода](https://github.com/temerovaalena09/portfolio/blob/f9fcefe85bba1e96ca70bc971cef08db741ec6de/result%20-%20%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-044208%20(1).pdf), [Backend. Создание, подписание и оплата реестра](https://github.com/temerovaalena09/portfolio/blob/f9fcefe85bba1e96ca70bc971cef08db741ec6de/IP-%5BTA%5D%20Backend.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2C%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-044326.pdf), [Техническая реализация метода](https://github.com/temerovaalena09/portfolio/blob/f9fcefe85bba1e96ca70bc971cef08db741ec6de/create-submit%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80-180826-044402%20(1).pdf), [Техническая реализация метода](https://github.com/temerovaalena09/portfolio/blob/f9fcefe85bba1e96ca70bc971cef08db741ec6de/pay%20-%20%D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80-180826-044530.pdf) |
 | Интеграция с Pruffme | Маппинг данных, UML-диаграмма последовательности, сценарии ошибок с HTTP-кодами, требования к логированию |[Общий обзор API](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%89%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20API%20Pruffme-100826-155653.pdf),  [Авторизация и аутентификация](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20Pruffme-110826-032420.pdf),   [Создание онлайн-занятия](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F%20%D0%B2%20U-Verse-110826-032451.pdf),  [Техническая реализация](https://github.com/temerovaalena09/portfolio/blob/main/webinars%5D%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-110826-032542.pdf)|
-
-
-**1. Структура отзывов**
-
-*Задача:*  
-Разработать систему сбора и отображения отзывов и оценок на платформе.
-
-*Решение:*  
-Провела анализ требований к системе отзывов. Спроектировала модель данных для хранения оценок, текстов отзывов, статусов модерации и связей с курсами и учениками. Описала бизнес-правила отображения рейтингов и фильтрации. Разработала user stories. Создала прототипы интерфейсов в Figma.
-
-
-
-**4. Интеграция с Pruffme (вебинарная платформа)**
-
-*Задача:*  
-Автоматизировать создание вебинарных комнат при планировании онлайн‑занятий.
-
-*Решение:*  
-Спроектировала интеграционный слой между U‑Verse и Pruffme. Разработала ТЗ на создание вебинарных комнат. Спроектировала маппинг данных между системами. Разработала UML-диаграмму последовательности, описывающую полный цикл. Описала требования к логированию и мониторингу.
-
-[Общий обзор API](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%89%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20API%20Pruffme-100826-155653.pdf)
-
-[Авторизация и аутентификация](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20Pruffme-110826-032420.pdf)
-
-[Создание онлайн-занятия](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F%20%D0%B2%20U-Verse-110826-032451.pdf)
-[Создание онлайн-занятия](https://github.com/temerovaalena09/portfolio/blob/main/webinars%5D%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-110826-032542.pdf)
-
-
-
-**5. Интеграция с RaifPay (платежная система)**
-
-*Задача:*  
-Обеспечить прием платежей за курсы на платформе.
-
-*Решение:*  
-Разработала схему взаимодействия U‑Verse с RaifPay. 
-
-[Общий обзор API](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%89%D0%B5%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20API%20RaifPay-100826-153959.pdf)
-
-[Авторизация и аутентификация](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-100826-160008.pdf)
-
-[Описание процесса](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B%20%D1%81%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-100826-160441.pdf)
-
-[Дополнение к описанию процесса](https://github.com/temerovaalena09/portfolio/blob/main/orders%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0-100826-160757.pdf)
-
 
 ---
 ## Инструментарий
