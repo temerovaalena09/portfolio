@@ -48,21 +48,34 @@
 |----------|----------|--------|
 | Webhooks (RaifPay) | Описание структуры запросов, статусной модели, проверки подписи | [Frontend](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20Frontend.%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%B0%20%D1%81%20%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B.-180826-154553.pdf), [Техническая реализация](https://github.com/temerovaalena09/portfolio/blob/main/%7BpaymentId%7D%20-%20%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0-180826-154640.pdf), [Backend. Webhook возврата](https://github.com/temerovaalena09/portfolio/blob/main/IP-Backend.%20Webhook%20%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%B0.-180826-154754.pdf), [Backend. Webhook оплаты](https://github.com/temerovaalena09/portfolio/blob/main/IP-Backend.%20Webhook%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B-180826-154710.pdf) |
 | Kafka | Постановка задач на событийную модель: топики, структура сообщений | [📄 Смотреть]() |
+| Unisender |  Интеграция с сервисом рассылок |                 |
 | Интеграция с RaifPay | Маппинг данных, сценарии проведения платежей и ошибок |[Общий обзор API](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%89%D0%B5%D0%B5%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20API%20RaifPay-100826-153959.pdf), [Авторизация и аутентификация](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-100826-160008.pdf), [Описание процесса](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B%20%D1%81%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-100826-160441.pdf), [Техническая реализация](https://github.com/temerovaalena09/portfolio/blob/main/orders%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0-100826-160757.pdf)|
 | Интеграция с Т-Банк | Маппинг данных, сценарии проведения платежей и ошибок | [Frontend](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20Frontend.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-153152.pdf), [ Backend. Получение статуса реестра](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20Backend.%20%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-153253.pdf), [Техническая реализация метода](https://github.com/temerovaalena09/portfolio/blob/main/result%20-%20%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-153345.pdf), [Backend. Создание, подписание и оплата реестра](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20Backend.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2C%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0-180826-153441.pdf), [Техническая реализация метода](https://github.com/temerovaalena09/portfolio/blob/main/create-submit%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80-180826-153532.pdf), [Техническая реализация метода](https://github.com/temerovaalena09/portfolio/blob/main/pay%20-%20%D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80-180826-153557.pdf), [Cron. Polling и синхронизация статусов](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20Cron.%20Polling%20%D0%B8%20%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%BE%D0%B2-180826-153630.pdf) |
 | Интеграция с Pruffme | Маппинг данных, UML-диаграмма последовательности, сценарии ошибок с HTTP-кодами, требования к логированию |[Общий обзор API](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%9E%D0%B1%D1%89%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20API%20Pruffme-100826-155653.pdf),  [Авторизация и аутентификация](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20Pruffme-110826-032420.pdf),   [Создание онлайн-занятия](https://github.com/temerovaalena09/portfolio/blob/main/IP-%5BTA%5D%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F%20%D0%B2%20U-Verse-110826-032451.pdf),  [Техническая реализация](https://github.com/temerovaalena09/portfolio/blob/main/webinars%5D%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-110826-032542.pdf)|
 
 ---
-## Инструментарий
+## Навыки и технологии
 
-| Область | Инструменты |
-|---------|-------------|
-| Моделирование | ![Static Badge](https://img.shields.io/badge/BPMN%202.0-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/UML-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/C4%20Model-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/ERD-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Miro-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Draw.io-2E86C1?style=flat-square) |
-| API и интеграции | ![Static Badge](https://img.shields.io/badge/REST-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/SOAP-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Postman-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Webhooks-2E86C1?style=flat-square) |
-| Данные | ![Static Badge](https://img.shields.io/badge/SQL-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/PostgreSQL-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/DBeaver-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/ER--диаграммы-2E86C1?style=flat-square) |
-| Управление требованиями | ![Static Badge](https://img.shields.io/badge/Jira-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/Confluence-2E86C1?style=flat-square) |
-| Прототипирование |![Static Badge](https://img.shields.io/badge/Figma-2E86C1?style=flat-square) |
-| Форматы |  ![Static Badge](https://img.shields.io/badge/JSON-2E86C1?style=flat-square), ![Static Badge](https://img.shields.io/badge/XML-2E86C1?style=flat-square) |
+### Системный анализ
+`Сбор и анализ требований` · `Формализация требований` · `Функциональные требования` · `Нефункциональные требования` · `User Stories` · `Use Cases` · `Acceptance Criteria` · `Бизнес-правила` · 
+
+### Моделирование и архитектура
+`BPMN 2.0` · `UML` · `C4 Model` · `ER-диаграммы` · `Draw.io` · `Клиент-серверная архитектура` · `Микросервисная архитектура`
+
+### API и данные
+`REST API` · `Swagger / OpenAPI` · `Postman` · `HTTP / HTTPS` · · `JSON` · `XML` · · `Webhooks` · `API Documentation` · `API Testing`
+
+### Интеграции
+`Проектирование интеграций` · `Маппинг данных` · `Синхронное взаимодействие` · `Асинхронное взаимодействие` · `Обработка ошибок` · · `Kafka` · `Unisender API`
+
+### Базы данных
+`SQL` · `PostgreSQL` · `DBeaver` · `Проектирование БД` · 
+
+### Документация и инструменты
+`Jira` · `Confluence` · `Figma` · 
+
+### Знакома с
+`SOAP API` · `RabbitMQ`
 
 ---
 
